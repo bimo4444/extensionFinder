@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication6" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sourcePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\il44</Value>
+    </Setting>
+    <Setting Name="targetPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\amm.dll\sql</Value>
+    </Setting>
+    <Setting Name="extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.sql</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
